@@ -1,0 +1,9 @@
+// in this we will right all folders and files to be ignored by gitnode node modules and also the project of this root folder whihc i dont want to push to git repository
+node_modules/ 
+dist/
+
+01viteReact/
+02counter/
+03tailwindProps/
+04bgChanger/
+05passwordGenerator/   
