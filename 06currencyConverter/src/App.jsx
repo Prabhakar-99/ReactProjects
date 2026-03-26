@@ -31,13 +31,12 @@ const convert= ()=>{
                 backgroundImage: `url('https://images.pexels.com/photos/23985408/pexels-photo-23985408.jpeg')`,
             }}
         >
-            <div className="w-full">
+            <div className="w-full ">
                 <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                     <form
                         onSubmit={(e) => {
                             e.preventDefault();
-                            convert()
-                           
+                            convert()   
                         }}
                     >
                         <div className="w-full mb-1">
