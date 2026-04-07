@@ -2,7 +2,7 @@
 
 A simple Todo application built with **React** and **Redux Toolkit** to practice modern state management.
 
-## 🚀 Features
+##  Features
 - Add new todos
 - Remove existing todos
 - Global state management with Redux Toolkit
